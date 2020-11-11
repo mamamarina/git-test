@@ -8,4 +8,5 @@
 * git restore
 * git checkout
 * git log
+* git remote
 # git-test
